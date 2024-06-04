@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.table{
+    border-color:;
+}
+
+.ResHeader{
+    border-color: rgb(6, 16, 16);
+}
